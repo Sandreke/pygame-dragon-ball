@@ -3,4 +3,4 @@ Este proyecto consiste en crear un juego de ataque usando [PyGame](https://www.p
 
 ### 🐉 Demo: [Video](https://www.instagram.com/p/C4ZXJeCLW-0/)
 
-<img src="https://github.com/Sandreke/pygame-dragon-ball/assets/64377961/47c4739d-2524-44ca-b2a0-3b582e376f9f" width="250" height="250"/>
+<img src="https://github.com/Sandreke/pygame-dragon-ball/assets/64377961/47c4739d-2524-44ca-b2a0-3b582e376f9f" width="250"/>
